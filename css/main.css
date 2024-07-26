@@ -1,0 +1,60 @@
+.parent{
+    margin-left: 30px;
+}
+.item{
+    float: left;
+    width: 250px;
+    height: 380px;
+    padding: 5px;
+    margin: 10px;
+    border: 3px solid black;
+    
+}
+h2 span{
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+}
+.text{
+    text-align: left;
+    
+}
+
+#p1{
+    display: inline;
+    color: green;
+    font-size: 20px;
+}
+#p2{
+    display: inline;
+    color: red;
+    font-size: 15px;
+    text-decoration-line:line-through;
+}
+#add{
+    
+    background-color: rgb(114, 152, 170);
+    color: aliceblue;
+    padding: auto;
+    width: 180px;
+    height:  40px;
+}
+#fa-heart{
+
+    padding: auto;
+    width: 50px;
+    height: 40px;
+}
+img{
+    
+    width: 240px;
+    margin-left: 4px;
+   
+}
+.bi {
+  margin-left: 5px;
+    float: left;
+
+}
+.clearfix{
+    clear: left;
+}
